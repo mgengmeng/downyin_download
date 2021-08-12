@@ -14,6 +14,7 @@ python download_video_mongo.py
 ### 文件说明
 
 search_item.json是下载到本地的https://aweme.snssdk.com/aweme/v1/search/item/开头的文件的response记录
+douyin_session.saz是fiddler的会话文件
 
 
 
